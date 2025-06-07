@@ -1,1 +1,41 @@
 123
+
+
+Quick-open a file
+
+Press
+
+Windows/Linux: Ctrl + P
+
+macOS: ⌘ + P
+
+Start typing the filename (e.g. src/index.js) and hit Enter.
+
+Toggle sidebar
+
+If your explorer is hidden, toggle it with
+
+Windows/Linux: Ctrl + B
+
+macOS: ⌘ + B
+
+2. In GitHub Codespaces
+Exactly the same as GitHub.dev—once your codespace loads:
+
+Use the Explorer icon or ⇧ ⌘ E (macOS) / Ctrl + Shift + E (Win/Linux).
+
+Use Go to File (⇧ ⌘ P, then type “>Go to File” or simply ⌘ P).
+
+3. In Local VS Code with Copilot
+Open your folder
+
+File → Open Folder… and select your project.
+
+Explorer view
+
+Click the top icon in the Activity Bar on the left (or Ctrl + Shift E / ⌘ Shift E).
+
+Jump to file
+
+Ctrl + P (Win/Linux) or ⌘ P (macOS).
+
